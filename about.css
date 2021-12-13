@@ -48,6 +48,6 @@
 .section {
     border: 2px solid black;
     border-radius: 100px;
-    background: url(../img/aboutus.jpg);
+    background: url(aboutus.jpg);
     background-size: cover;
 }
