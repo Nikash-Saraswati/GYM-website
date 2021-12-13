@@ -7,7 +7,7 @@
             }
             
             .back {
-                background-image: url(../img/member.jpg);
+                background-image: url(member.jpg);
                 background-size: cover;
                 height: 100vh;
             }
