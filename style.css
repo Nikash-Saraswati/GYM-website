@@ -76,7 +76,7 @@
 
 .background {
     /* background-blend-mode: darken; */
-    background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url(../img/tcr.png);
+    background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url(tcr.png);
     background-size: cover;
 }
 
