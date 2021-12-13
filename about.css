@@ -1,0 +1,53 @@
+.container {
+    background-color: rgb(125, 243, 231);
+}
+
+.text1 {
+    color: rgb(46, 11, 5);
+}
+
+.lastpart {
+    padding-bottom: 0px;
+}
+
+.f2 {
+    padding-bottom: 200px;
+}
+
+.section1 {
+    justify-content: center;
+    text-align: center;
+}
+
+.section2 {
+    color: black;
+    height: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+    padding-left: 300px;
+    padding-right: 50px;
+}
+
+.section3 {
+    color: black;
+    height: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+    padding-left: 300px;
+    padding-right: 50px;
+}
+
+.bkk {
+    background: whitesmoke;
+}
+
+.section {
+    border: 2px solid black;
+    border-radius: 100px;
+    background: url(../img/aboutus.jpg);
+    background-size: cover;
+}
